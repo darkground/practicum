@@ -1,0 +1,1 @@
+# blogicum (django_sprint)
